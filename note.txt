@@ -1,0 +1,18 @@
+https://www.pythonanywhere.com سایت اپلود کردن بات تلگرام و فعال بودن آن برای همیشه
+
+https://www.pythonanywhere.com/user/MohamadSaleh/files/home/MohamadSaleh اپلود کردن فایل در این قسمت
+
+https://www.pythonanywhere.com/user/MohamadSaleh/consoles/24479446/ از نیوکنسول گزینه بش رو انتخاب میکنیم و ی بش اختصاصی برای ما میسازد
+اینجا باید تمام ماژول هایی ک توی پروژه استفاده کردیم رو نصب کنیم
+pip3 install telegram --user fred
+pip install python-telegram-bot --user fred
+با دو دستور بالا ماژول ها نصب میشوند
+
+میریم برای ران کردن بات
+python rt.py
+
+
+
+
+###https://unicode.org/emoji/charts/full-emoji-list.html *(Full Emoji List)*
+From the list of unicodes, replace “+” with “000”. For example – “U+1F600” will become “U0001F600” and prefix the unicode with “\” and print it
