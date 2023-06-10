@@ -22,7 +22,7 @@ def youtube_url(update: Update, context: CallbackContext):
 def linkedIn_url(update: Update, context: CallbackContext):
     update.message.reply_text(
         "LinkedIn URL => \
-        http://www.linkedin.com/in/saleh-moradpour-753bb3221/")
+        https://www.linkedin.com/in/mohamad-moradpoor/")
 def github_url(update: Update, context: CallbackContext):
     update.message.reply_text(
         "github id => https://github.com/MohamadsalehMoradpoor/")
